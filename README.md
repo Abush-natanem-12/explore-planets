@@ -19,6 +19,5 @@ This project filters habitable planets from a dataset of exoplanets based on cer
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Abush-natanem-12/explore-planets
    ```
